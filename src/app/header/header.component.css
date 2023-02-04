@@ -1,0 +1,8 @@
+
+.divider-vertical {
+    height: 40px;
+    width: 4px;
+    border-left: 1px solid gray;
+    float: left;
+    opacity: 0.5;
+}
